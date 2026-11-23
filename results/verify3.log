@@ -1,0 +1,73 @@
+OK   ER-k4 R0 (图1, N=1000 seed=0)                         claim=+0.259 data=+0.259
+OK   ER-k4 R1 (图1, N=1000 seed=0)                         claim=+0.399 data=+0.399
+OK   BA-m2 R0 (图1, N=1000 seed=0)                         claim=+0.108 data=+0.108
+OK   BA-m2 R1 (图1, N=1000 seed=0)                         claim=+0.352 data=+0.352
+OK   表1 R0 vs D20                                         claim=-0.259 data=-0.259
+OK   表1 R0 vs B20                                         claim=-0.011 data=-0.011
+OK   表1 R0 vs D_unif                                      claim=-0.953 data=-0.953
+OK   表1 R05 vs D20                                        claim=-0.300 data=-0.300
+OK   表1 R05 vs B20                                        claim=-0.069 data=-0.069
+OK   表1 R05 vs D_unif                                     claim=-0.926 data=-0.926
+OK   表1 R1 vs D20                                         claim=-0.618 data=-0.618
+OK   表1 R1 vs B20                                         claim=-0.415 data=-0.415
+OK   表1 R1 vs D_unif                                      claim=-0.749 data=-0.749
+OK   表1 R2 vs D20                                         claim=-0.455 data=-0.455
+OK   表1 R2 vs B20                                         claim=-0.667 data=-0.667
+OK   表1 R2 vs D_unif                                      claim=+0.640 data=+0.640
+OK   α=0.0 vs D20                                         claim=-0.259 data=-0.259
+OK   α=1.5 vs D20                                         claim=-0.769 data=-0.769
+OK   α=1.5 vs B20                                         claim=-0.873 data=-0.873
+OK   α=1.5 vs D10                                         claim=-0.850 data=-0.850
+OK   α=1.5 vs B10                                         claim=-0.803 data=-0.803
+OK   α=3.0 vs D_unif                                      claim=+0.827 data=+0.827
+OK   α=2.0 vs D10                                         claim=-0.708 data=-0.708
+OK   α=2.0 vs B10                                         claim=-0.778 data=-0.778
+OK   R1 留一族下界                                             claim=-0.813 data=-0.813
+OK   R1 留一族上界                                             claim=-0.394 data=-0.394
+OK   R0 留一族上界                                             claim=+0.135 data=+0.135
+OK   R1 偏相关                                               claim=-0.227 data=-0.227
+OK   R0 偏相关                                               claim=+0.287 data=+0.287
+OK   R2 偏相关                                               claim=-0.362 data=-0.362
+OK   Kendall τ(R0,R1)                                     claim=+0.659 data=+0.659
+OK   Kendall τ(R0,R2)                                     claim=-0.356 data=-0.356
+OK   gap-CV (degree)                                      claim=+0.716 data=+0.716
+OK   gap-CV (betweenness)                                 claim=+0.746 data=+0.746
+INFO  组内: R1 更负的组数 10/21 (论文写 10/21), 中位 τ R0=+0.000 R1=-0.200 R2=-0.160
+OK   表2 PL-2.5 R0                                         claim=+0.357 data=+0.357
+OK   表2 PL-2.5 R1                                         claim=-0.746 data=-0.746
+OK   表2 PL-3.0 R0                                         claim=+0.204 data=+0.204
+OK   表2 PL-3.0 R1                                         claim=-0.839 data=-0.839
+OK   表2 BA-m3 R0                                          claim=+0.283 data=+0.283
+OK   表2 BA-m3 R1                                          claim=+0.246 data=+0.246
+OK   表2 BA-m3 R2                                          claim=-0.355 data=-0.355
+OK   表2 ER-k6 R1                                          claim=+0.188 data=+0.188
+OK   表2 ER-k4 R2                                          claim=-0.204 data=-0.204
+OK   表2 WS-k6 R2                                          claim=-0.165 data=-0.165
+OK   表2 BA-m2 R0                                          claim=+0.097 data=+0.097
+OK   分规模 N=500 R0                                         claim=-0.297 data=-0.297
+OK   分规模 N=500 R1                                         claim=-0.640 data=-0.640
+OK   分规模 N=1000 R0                                        claim=-0.252 data=-0.252
+OK   分规模 N=1000 R1                                        claim=-0.606 data=-0.606
+OK   分规模 N=2000 R0                                        claim=-0.236 data=-0.236
+OK   分规模 N=2000 R1                                        claim=-0.618 data=-0.618
+OK   表3 beta=0.2 pct=0.01                                 claim=+1.000 data=+1.000
+OK   表3 beta=0.5 pct=0.01                                 claim=+0.920 data=+0.920
+OK   表3 beta=1.0 pct=0.01                                 claim=+0.480 data=+0.480
+OK   表3 beta=1.0 pct=0.02                                 claim=+0.570 data=+0.570
+OK   表3 beta=2.0 pct=0.01                                 claim=+0.010 data=+0.010
+OK   表3 beta=2.0 pct=0.05                                 claim=+0.420 data=+0.420
+OK   6.7 seed=0 R0                                        claim=+0.033 data=+0.033
+OK   6.7 seed=0 R1                                        claim=+0.183 data=+0.183
+OK   6.7 seed=0 D20                                       claim=+0.678 data=+0.678
+OK   6.7 seed=0 kmax                                      claim=+115.000 data=+115.000
+OK   6.7 seed=0 cv_k                                      claim=+1.780 data=+1.779
+OK   6.7 seed=0 k_cost                                    claim=+32.000 data=+32.000
+OK   6.7 seed=1 R0                                        claim=+0.046 data=+0.046
+OK   6.7 seed=1 R1                                        claim=+0.150 data=+0.150
+OK   6.7 seed=1 D20                                       claim=+0.947 data=+0.947
+OK   6.7 seed=1 kmax                                      claim=+39.000 data=+39.000
+OK   6.7 seed=1 cv_k                                      claim=+0.910 data=+0.909
+OK   6.7 seed=1 k_cost                                    claim=+70.000 data=+70.000
+INFO  网络数 105, 行数 315
+
+RESULT ALL MATCH
